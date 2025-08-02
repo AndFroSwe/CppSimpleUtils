@@ -8,3 +8,4 @@ All implemnations are simple with minimal error checking. The only purpose is sm
 - [ ] Enumerate
 - [ ] Zip
 - [ ] Pipeable operator
+- [ ] Window View
